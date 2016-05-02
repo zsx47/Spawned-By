@@ -1,0 +1,10 @@
+name: SpawnedBy
+main: spawnedby.SpawnedBy
+config-version: 1.0
+author: zsx47
+dev-url: http://none.com
+description: test
+version: 1.0
+commands:
+permissions:
+    
